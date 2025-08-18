@@ -13,5 +13,3 @@ One of the essential aspects of stock movement analysis is analyzing historical 
 .........
 
 ## Another advantage of using Power BI for analyzing historical stock data is the ability to create interactive dashboards. With Power BI's intuitive drag-and-drop interface, you can easily build dynamic visualizations that allow you to explore the data from different angles. This interactive approach enables you to quickly identify correlations and outliers, providing valuable insights into the stock market.
-
-In addition to visualizing historical stock data, Power BI also offers advanced analytics capabilities. You can leverage machine learning algorithms and statistical models to uncover hidden patterns and relationships within the data. By applying these advanced analytics techniques, you can gain a deeper understanding of the factors influencing stock movements and make more informed investment decisions.
